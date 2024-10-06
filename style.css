@@ -1,0 +1,32 @@
+body {
+    background-color: tan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 300px ;
+    width: auto;
+}
+
+table { 
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid black 1px;
+    text-align: center;
+}
+
+.table-div {
+    padding-bottom: 10vh;
+}
